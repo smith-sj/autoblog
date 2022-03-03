@@ -1,0 +1,11 @@
+<p>This is a test post that I'm trying out for my portfolio.
+Let's see if my little Python script actually works.</p>
+
+<p> If all goes to plan, this should be a picture of The Wiggles:<br><br>
+<a href="https://thewiggles.com"><img src="./blog-assets/theWigglesPortrait.jpg" width="300px" alt="The Wiggles Portrait"></a><br><br>
+Clicking it should take you to The Wiggles Website.
+ </p>
+
+<p>Click the bottom link, it should take you back to the previous post: Post 9 - "My Portfolio Launch"</p>
+
+<p> Hope it all worked out :)</p>
