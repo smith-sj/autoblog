@@ -36,8 +36,8 @@ HTML
 
 ## How It Works
 
-I commented almost every line of code as I don't want to forget how it all works, so you'll have a pretty easy time reading the code. It's also important 
-to point out that while I've set some of the variables as inputs, some parts of the script are specific to my website. If I get some free time during 
+I commented almost every line as I'll probably forget how it works, but it also makes it an easy read for anyone who wants to have a peak. It's also important 
+to point out that, while I've set some of the variables as inputs, a lot of the script is specific to my portfolio. If I get some free time during 
 the bootcamp, I'd like to come back and abstract certain parts so it can be used for various projects.
 
 Here's a quick overview of how it works:
